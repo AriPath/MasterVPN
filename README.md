@@ -1,4 +1,4 @@
-# 🛡️ MasterVPN (Windows)
+# 🛡️ MasterVPN (Windows) 
 
 ابزاری قدرتمند برای دور زدن فیلترینگ و سیستم‌های DPI (Deep Packet Inspection) با استفاده از تکنیک **Domain Fronting**.
 بدون نیاز به سرور یا کانفیگ پیچیده — فقط با یک اکانت گوگل، به اینترنت آزاد متصل شوید.
