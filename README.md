@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# 🛡️ MasterDnsVPN (Windows)
+# 🛡️ MasterHttpRelayVPN (Windows)
 
 > 🚀 ابزاری قدرتمند برای عبور از فیلترینگ و سیستم‌های **DPI (Deep Packet Inspection)**
 > با استفاده از تکنیک **Domain Fronting** — بدون نیاز به سرور یا تنظیمات پیچیده
