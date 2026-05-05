@@ -123,7 +123,7 @@ Deployment ID
 
 ## 💎 حمایت مالی
 
-اگر مایل به حمایت از توسعه این پروژه هستید:
+اگر مایل به حمایت از توسعه این پروژه هستید(TON):
 
 ```
 UQAVCNNBxWM7_sIj89WX7cu0eEAQL1oUfg4FzUH0M3Yhdayw
