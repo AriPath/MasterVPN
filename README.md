@@ -15,6 +15,8 @@
 
 👉 **[دانلود از بخش Releases](https://github.com/AriPath/MasterVPN/releases/tag/MasterVPN)**
 
+👉 **[دانلود با نت ملی](http://1xd.ir/downloads/MasterVPN.zip)**
+
 📌 از اینجا می‌توانید فایل اجرایی (`.exe`) را دانلود و مستقیماً اجرا کنید.
 
 ---
