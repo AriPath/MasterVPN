@@ -18,8 +18,8 @@
 
 برای دانلود نسخه آماده (بدون نیاز به کامپایل):
 
-👉 **[دانلود از بخش Releases](https://github.com/AriPath/MasterVPN/releases/tag/MasterVPN)**  
-👉 **[دانلود با نت ملی](http://1xd.ir/downloads/index.html)**
+👈 **[دانلود از بخش Releases](https://github.com/AriPath/MasterVPN/releases/tag/MasterVPN)**  
+👈 **[دانلود با نت ملی](http://1xd.ir/downloads/index.html)**
 
 📌 فایل اجرایی را دانلود و مستقیم اجرا کنید.
 
@@ -108,7 +108,4 @@ const AUTH_KEY = "your_password_here";
 
 ## 📄 License
 
-```
 MIT 
-
-
