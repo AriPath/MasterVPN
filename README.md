@@ -1,5 +1,8 @@
 # 🛡️ MasterHttpRelayVPN (Windows)
 
+در این پروژه تلاش شده است روش **MasterHttpRelay** به‌صورت یک اپلیکیشن نیتیو و بسیار ساده پیاده‌سازی و ارائه شود؛ به‌طوری‌که کاربران بدون نیاز به تنظیمات پیچیده یا دانش فنی خاص، بتوانند از قابلیت‌های آن بهره‌مند شوند.
+پروژه: [MasterHttpRelayVPN](https://github.com/masterking32/MasterHttpRelayVPN/)
+
 > 🚀 ابزاری قدرتمند برای عبور از فیلترینگ و سیستم‌های **DPI (Deep Packet Inspection)**  
 > با استفاده از تکنیک **Domain Fronting** — بدون نیاز به سرور یا تنظیمات پیچیده
 
