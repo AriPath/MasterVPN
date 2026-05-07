@@ -87,7 +87,7 @@ https://script.google.com/
 
 4. ایجاد یا جایگذاری فایل `Code.gs`
 
-5. قرار دادن کد زیر:
+5. قرار دادن پسورد در خط زیر:
 ```javascript
 const AUTH_KEY = "your_password_here";
 ```
