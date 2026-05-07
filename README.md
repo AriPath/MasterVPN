@@ -14,14 +14,16 @@
 
 ---
 
-## 📥 دانلود برنامه (نسخه آماده)
+## 📥 دانلود برنامه
 ![screenshot](./pic/MasterHttpRelay.png)
-برای دانلود نسخه آماده (بدون نیاز به کامپایل):
 
-👈 **[دانلود از بخش Releases](https://github.com/AriPath/MasterVPN/releases/tag/MasterVPN)**  
-👈 **[دانلود با نت ملی](http://1xd.ir/downloads/index.html)**
+برای استفاده از برنامه:
 
-📌 فایل اجرایی را دانلود و مستقیم اجرا کنید.
+1. مخزن پروژه را به صورت ZIP دانلود کنید  
+2. فایل ZIP را Extract کنید  
+3. فایل `MasterVPN.exe` را اجرا کنید
+
+👈 **[دانلود پروژه به صورت ZIP](https://github.com/AriPath/MasterVPN/archive/refs/heads/main.zip)**
 
 ---
 
