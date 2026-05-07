@@ -15,7 +15,7 @@
 ---
 
 ## 📥 دانلود برنامه (نسخه آماده)
-![screenshot-1](./pic/MasterHttpRelayVPN.png)
+![screenshot](./pic/MasterHttpRelay.png)
 برای دانلود نسخه آماده (بدون نیاز به کامپایل):
 
 👈 **[دانلود از بخش Releases](https://github.com/AriPath/MasterVPN/releases/tag/MasterVPN)**  
