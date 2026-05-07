@@ -74,21 +74,23 @@ Type: HTTP
 ````
 
 ---
-
 ## 🛠 راه‌اندازی Google Apps Script
 
-### مراحل:
+### مراحل
 
-🔧 https://script.google.com/
-🔧 ساخت پروژه جدید
-🔧 حذف کدهای پیش‌فرض
-🔧 اضافه کردن `Code.gs`
+1. ورود به Google Apps Script  
+https://script.google.com/
 
+2. ایجاد یک پروژه جدید
+
+3. حذف تمام کدهای پیش‌فرض
+
+4. ایجاد یا جایگذاری فایل `Code.gs`
+
+5. قرار دادن کد زیر:
 ```javascript
 const AUTH_KEY = "your_password_here";
 ```
-
-🔧 Deploy → New Deployment
 🔧 تنظیم:
 
 * Type: Web app
@@ -101,8 +103,8 @@ const AUTH_KEY = "your_password_here";
 
 ## 🔗 اتصال
 
-* Google Script ID ← Deployment ID
-* Auth Key ← رمز شما
+* Google Script ID = Deployment ID
+* Auth Key = رمز شما
 
 ---
 
